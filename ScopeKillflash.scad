@@ -1,3 +1,8 @@
+//scope killflash version 1.0
+
+//all units mm
+//https://openscad.cloud/openscad/ for testing
+//adjust these values
 scope_inner_diameter = 24;
 scope_outer_diameter = 26;
 scope_depth = 24;
